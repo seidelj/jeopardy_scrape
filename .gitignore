@@ -1,0 +1,8 @@
+venv
+*.pyc
+staticfiles
+j-archive
+*.download.py.swp
+*~
+*.swp
+*.swo
