@@ -10,3 +10,6 @@ https://www.djangoproject.com/
 
       $(venv) python download.py
       $(venv) python parse.py
+
+
+I added earnings and contestants however credit is due to: https://github.com/whymarrh/jeopardy-parser
